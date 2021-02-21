@@ -1,0 +1,4 @@
+﻿  teacher.cpp
+c:\users\balnd\source\repos\机房预约\机房预约\teacher.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\balnd\source\repos\机房预约\机房预约\teacher.cpp(111): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约.vcxproj -> C:\Users\balnd\source\repos\机房预约\Debug\机房预约.exe
